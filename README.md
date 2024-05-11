@@ -4,6 +4,11 @@
 
 - <b>Azure Projects</b>
   - [Application Insights - Azure Web App](https://github.com/Hunter102002/ApplicationInsights/tree/main)
+  - [Web App Monitoring - Azure Web App](https://github.com/Hunter102002/WebApp-Azure-Project)
+ 
+- <b>AWS Projects</b>
+  - [AWS Dynamo DB](https://github.com/Hunter102002/AWS-DynamoDB)
+  - [AWS VPC Configuration](https://github.com/Hunter102002/VPC-AWS-Project)
 
 
 
