@@ -3,7 +3,7 @@
 <h2>🌐🔐 Cyber Security Projects:</h2>
 
 - <b>Azure Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Application Insights - Azure Web App](https://github.com/Hunter102002/ApplicationInsights/tree/main)
 
 
 
