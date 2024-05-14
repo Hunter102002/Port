@@ -5,6 +5,7 @@
 - <b>Azure Projects</b>
   - [Create Web App with CLI - Azure](https://github.com/Hunter102002/Create-Web-App-Azure-CLI)
   - [Creating Alert Rules for VM Delete - Azure](https://github.com/Hunter102002/Alert-Rule-VM-Delete)
+  - [Implement and Scale AKS](https://github.com/Hunter102002/Implement-and-scale-azure-Kubernetes)
   - [Implement Azure Resource Locks - Azure](https://github.com/Hunter102002/Layered-Security-AWS-VPC)
   - [Key Rotation in Azure Key Vault - Azure](https://github.com/Hunter102002/Key-Rotation-Azure-Key-Valut)
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
