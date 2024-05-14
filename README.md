@@ -16,7 +16,6 @@
     
  
 - <b>AWS Projects</b>
-  - [Configure Layeered Security with VPC - AWS](https://github.com/Hunter102002/Layered-Security-AWS-VPC)
   - [AWS Dynamo DB](https://github.com/Hunter102002/AWS-DynamoDB)
   - [AWS VPC Configuration](https://github.com/Hunter102002/VPC-AWS-Project)
 
