@@ -5,6 +5,7 @@
 - <b>Azure Projects</b>
   - [Create Web App with CLI - Azure](https://github.com/Hunter102002/Create-Web-App-Azure-CLI)
   - [Creating Alert Rules for VM Delete - Azure](https://github.com/Hunter102002/Alert-Rule-VM-Delete)
+  - [Configure Layeered Security with VPC - Azure](https://github.com/Hunter102002/Layered-Security-AWS-VPC)
   - [Key Rotation in Azure Key Vault - Azure](https://github.com/Hunter102002/Key-Rotation-Azure-Key-Valut)
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
   - [Create a Basic Load Balancer - Azure](https://github.com/Hunter102002/Create-basic-load-balancer)
