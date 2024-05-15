@@ -3,6 +3,10 @@
 <h2>🌐🔐 Cyber Security Projects:</h2>
 
 - <b>Azure Projects</b>
+  - [Managing Windows VMS with Azure Bastion](https://github.com/Hunter102002/Azure-Bastion-)
+  - [Azure API Management Integration with App Service](https://github.com/Hunter102002/Azure-APIM-Integration-with-App-Service)
+  - [Hosting a Portfolio Using App Service](https://github.com/Hunter102002/Hosting-a-Portfolio-using-Azure-App-Service)
+  - [Import Function App as API managment](https://github.com/Hunter102002/Import-function-app-as-api-managment)
   - [Create Web App with CLI - Azure](https://github.com/Hunter102002/Create-Web-App-Azure-CLI)
   - [Creating Alert Rules for VM Delete - Azure](https://github.com/Hunter102002/Alert-Rule-VM-Delete)
   - [Implement and Scale AKS](https://github.com/Hunter102002/Implement-and-scale-azure-Kubernetes)
