@@ -23,6 +23,13 @@
 - <b>AWS Projects</b>
   - [AWS Dynamo DB](https://github.com/Hunter102002/AWS-DynamoDB)
   - [AWS VPC Configuration](https://github.com/Hunter102002/VPC-AWS-Project)
+  - [Deploying Web Page Inside a Custom VPC](https://github.com/Hunter102002/Deploying-a-web-page-inside-a-custom-VPC)
+  - [Understanding cloudfront origin groups](https://github.com/Hunter102002/Understanding-cloudfront-origin-groups)
+  - [How to setup an aws site to site connection](https://github.com/Hunter102002/How-to-setup-an-aws-site-to-site-connection)
+  - [implement VPC Peering](https://github.com/Hunter102002/implement-VPC-Peering)
+  - [Deploy a Static Feedback Webpage with Serverless Architecture](https://github.com/Hunter102002/Deploy-a-Static-Feedback-Webpage-with-100-Serverless-Architecture)
+  - [Managing CloudFront Distribution Access Using AWS WAF](https://github.com/Hunter102002/block-and-unblock-access-with-WAF)
+  
 
 
 
