@@ -20,7 +20,7 @@
   - [AWS Dynamo DB](https://github.com/Hunter102002/AWS-DynamoDB)
   - [AWS VPC Configuration](https://github.com/Hunter102002/VPC-AWS-Project)
   - [Deploying Web Page Inside a Custom VPC](https://github.com/Hunter102002/Deploying-a-web-page-inside-a-custom-VPC)
-  - [How to setup an aws site to site connection](https://github.com/Hunter102002/How-to-setup-an-aws-site-to-site-connection)
+  - [How to set up an aws site-to-site connection](https://github.com/Hunter102002/How-to-setup-an-aws-site-to-site-connection)
   - [implement VPC Peering](https://github.com/Hunter102002/implement-VPC-Peering)
   - [Deploy a Static Feedback Webpage with Serverless Architecture](https://github.com/Hunter102002/Deploy-a-Static-Feedback-Webpage-with-100-Serverless-Architecture)
   - [Managing CloudFront Distribution Access Using AWS WAF](https://github.com/Hunter102002/block-and-unblock-access-with-WAF)
@@ -28,6 +28,9 @@
 
 - <b>Python Projects</b>
   - [Python Chatbot](https://github.com/Hunter102002/Python-Finance-Tracker)
+ 
+- <b>SQL Projects</b>
+  - [SQL Ecom Database](https://github.com/Hunter102002/SQL-Ecom-Database)
 
   
 
