@@ -25,7 +25,7 @@
   - [SQL Student Grades DB](https://github.com/Hunter102002/Student-Grades-SQL)
  
 - <b>Bash Projects</b>
-  - [Elden Ring minigame]()
+  - [Elden Ring minigame](https://github.com/Hunter102002/Ekden-Ring-Bash/blob/main/README.md)
 
   
 
