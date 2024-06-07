@@ -23,6 +23,9 @@
 - <b>SQL Projects</b>
   - [SQL Ecom Database](https://github.com/Hunter102002/SQL-Ecom-Database)
   - [SQL Student Grades DB](https://github.com/Hunter102002/Student-Grades-SQL)
+ 
+- <b>Bash Projects</b>
+  - [Elden Ring minigame]()
 
   
 
