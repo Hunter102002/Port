@@ -4,9 +4,7 @@
 
 - <b>Azure Projects</b>
   - [Azure API Management Integration with App Service](https://github.com/Hunter102002/Azure-APIM-Integration-with-App-Service)
-  - [Hosting a Portfolio Using App Service](https://github.com/Hunter102002/Hosting-a-Portfolio-using-Azure-App-Service)
   - [Import Function App as API managment](https://github.com/Hunter102002/Import-function-app-as-api-managment)
-  - [Create Web App with CLI - Azure](https://github.com/Hunter102002/Create-Web-App-Azure-CLI)
   - [Implement and Scale AKS](https://github.com/Hunter102002/Implement-and-scale-azure-Kubernetes)
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
   - [Create a Basic Load Balancer - Azure](https://github.com/Hunter102002/Create-basic-load-balancer)
