@@ -14,14 +14,14 @@
   - [implement VPC Peering](https://github.com/Hunter102002/implement-VPC-Peering)
   - [Managing CloudFront Distribution Access Using AWS WAF](https://github.com/Hunter102002/block-and-unblock-access-with-WAF)
  
-- - <b>SOC Analyst Projects</b>
+ - <b>SOC Analyst Projects</b>
   - [Elden Ring minigame](https://github.com/Hunter102002/Ekden-Ring-Bash/blob/main/README.md)
  
 - <b>SQL Projects</b>
   - [SQL Ecom Database](https://github.com/Hunter102002/SQL-Ecom-Database)
   - [SQL Student Grades DB](https://github.com/Hunter102002/Student-Grades-SQL)
  
-- - <b>Python Projects</b>
+ - <b>Python Projects</b>
   - [Python Chatbot](https://github.com/Hunter102002/Python-Finance-Tracker)
   - [Password Generator](https://github.com/Hunter102002/Password-Generator)
 
