@@ -11,7 +11,7 @@
     
 
  - <b>AWS Projects</b>
-  - [How to set up an aws site-to-site connection](https://github.com/Hunter102002/How-to-setup-an-aws-site-to-site-connection)
+   - [How to set up an aws site-to-site connection](https://github.com/Hunter102002/How-to-setup-an-aws-site-to-site-connection)
   - [implement VPC Peering](https://github.com/Hunter102002/implement-VPC-Peering)
   - [Managing CloudFront Distribution Access Using AWS WAF](https://github.com/Hunter102002/block-and-unblock-access-with-WAF)
  
