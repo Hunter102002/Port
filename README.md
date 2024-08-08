@@ -17,7 +17,7 @@
  
 
  - <b>SOC Analyst Projects</b>
-  - [Elden Ring minigame](https://github.com/Hunter102002/Ekden-Ring-Bash/blob/main/README.md)
+   - [Elden Ring minigame](https://github.com/Hunter102002/Ekden-Ring-Bash/blob/main/README.md)
  
 
 - <b>SQL Projects</b>
@@ -26,8 +26,8 @@
  
 
  - <b>Python Projects</b>
-  - [Python Chatbot](https://github.com/Hunter102002/Python-Finance-Tracker)
-  - [Password Generator](https://github.com/Hunter102002/Password-Generator)
+   - [Python Chatbot](https://github.com/Hunter102002/Python-Finance-Tracker)
+   - [Password Generator](https://github.com/Hunter102002/Password-Generator)
 
   
 
