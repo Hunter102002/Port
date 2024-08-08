@@ -17,7 +17,9 @@
  
 
  - <b>SOC Analyst Projects</b>
-   - [Elden Ring minigame](https://github.com/Hunter102002/Ekden-Ring-Bash/blob/main/README.md)
+   - [Hive Ticketing Sim](https://github.com/Hunter102002/Hive-Ticketing)
+   - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
+   - [Phishing Email Investigation Sim](https://github.com/Hunter102002/Phishing-Investigation)
  
 
 - <b>SQL Projects</b>
