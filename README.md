@@ -30,6 +30,8 @@
  - <b>Python Projects</b>
    - [Python Chatbot](https://github.com/Hunter102002/Python-Finance-Tracker)
    - [Password Generator](https://github.com/Hunter102002/Password-Generator)
+  
+ - <b>Tools/Ethical Hacking</b>
 
   
 
