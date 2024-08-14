@@ -8,33 +8,21 @@
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
   - [Configure Azure Firewall and Policy in Azure Portal](https://github.com/Hunter102002/Configure-Azure-Firewall-and-policy-using-Azure-Portal)
   - [Create a Private Link Service - Azure](https://github.com/Hunter102002/Create-Private-Link-Service/tree/main)
-    
-
- - <b>AWS Projects</b>
-   - [How to set up an aws site-to-site connection](https://github.com/Hunter102002/How-to-setup-an-aws-site-to-site-connection)
-   - [implement VPC Peering](https://github.com/Hunter102002/implement-VPC-Peering)
-   - [Managing CloudFront Distribution Access Using AWS WAF](https://github.com/Hunter102002/block-and-unblock-access-with-WAF)
  
 
  - <b>SOC Analyst Projects</b>
    - [Hive Ticketing Sim](https://github.com/Hunter102002/Hive-Ticketing)
    - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
    - [Phishing Email Investigation Sim](https://github.com/Hunter102002/Phishing-Investigation)
- 
-
-- <b>SQL Projects</b>
-  - [SQL Ecom Database](https://github.com/Hunter102002/SQL-Ecom-Database)
-  - [SQL Student Grades DB](https://github.com/Hunter102002/Student-Grades-SQL)
- 
-
- - <b>Python Projects</b>
-   - [Python Chatbot](https://github.com/Hunter102002/Python-Finance-Tracker)
-   - [Password Generator](https://github.com/Hunter102002/Password-Generator)
+   - 
   
  - <b>Tools/Ethical Hacking</b>
 
   
-
+ - <b>AWS Projects</b>
+   - [How to set up an aws site-to-site connection](https://github.com/Hunter102002/How-to-setup-an-aws-site-to-site-connection)
+   - [implement VPC Peering](https://github.com/Hunter102002/implement-VPC-Peering)
+   - [Managing CloudFront Distribution Access Using AWS WAF](https://github.com/Hunter102002/block-and-unblock-access-with-WAF)
 
 
 
