@@ -18,6 +18,7 @@
   
  - <b>Tools/Ethical Hacking</b>
     - [NMAP Vulnerability Scanning](https://github.com/Hunter102002/NMAP-Vulnerable-Target)
+    - [Burpsuite Sniper Attack](https://github.com/Hunter102002/Burpsuite-Sniper-Attack)
 
   
  - <b>AWS Projects</b>
