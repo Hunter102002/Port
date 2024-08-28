@@ -19,10 +19,8 @@
     - [Remote Access Exploitation Using Metasploit](https://github.com/Hunter102002/Metasploit-remote-access)
     - [Password Cracking Using John the Ripper](https://github.com/Hunter102002/JTR-password-crack)
     - [hping3 DoS Attack Simulation](https://github.com/Hunter102002/Hping3-DOS-Attack)
-
-  
- - <b>AWS Projects</b>
-   - [Managing CloudFront Distribution Access Using AWS WAF](https://github.com/Hunter102002/block-and-unblock-access-with-WAF)
+    - [Wazuh SIEM Config](https://github.com/Hunter102002/Wazuh_SIEM_Config)
+    - [Splunk - Monitor Critical Server](https://github.com/Hunter102002/Splunk-critical-server)
 
 
 
