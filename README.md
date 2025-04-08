@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hunter! 
 
-<h2>🌐🔐 IT Projects:</h2>
+<h2> IT Projects:</h2>
 
 - <b>Azure Projects</b>
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
