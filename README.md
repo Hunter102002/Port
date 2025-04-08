@@ -13,11 +13,6 @@
     
   
  - <b>Tools Projects</b>
-    - [NMAP Vulnerability Scanning](https://github.com/Hunter102002/NMAP-Vulnerable-Target)
-    - [Burpsuite Sniper Attack](https://github.com/Hunter102002/Burpsuite-Sniper-Attack)
-    - [Remote Access Exploitation Using Metasploit](https://github.com/Hunter102002/Metasploit-remote-access)
-    - [Password Cracking Using John the Ripper](https://github.com/Hunter102002/JTR-password-crack)
-    - [hping3 DoS Attack Simulation](https://github.com/Hunter102002/Hping3-DOS-Attack)
     - [Wazuh SIEM Config](https://github.com/Hunter102002/Wazuh_SIEM_Config)
     - [Splunk - Monitor Critical Server](https://github.com/Hunter102002/Splunk-critical-server)
 
