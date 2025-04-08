@@ -2,17 +2,17 @@
 
 <h2> IT Projects:</h2>
 
-- <b>Azure Projects</b>
+- <b>Cloud Projects</b>
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
   - [Configure Azure Firewall and Policy in Azure Portal](https://github.com/Hunter102002/Configure-Azure-Firewall-and-policy-using-Azure-Portal) 
 
- - <b>SOC Analyst Projects</b>
+ - <b>Securityrojects</b>
    - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
    - [Phishing Email Investigation Sim](https://github.com/Hunter102002/Phishing-Investigation)
    - [Vulnerability Assessment Using Nessus](https://github.com/Hunter102002/Nessus-VM-scan-report)
     
   
- - <b>Tools/Ethical Hacking</b>
+ - <b>Tools Projects</b>
     - [NMAP Vulnerability Scanning](https://github.com/Hunter102002/NMAP-Vulnerable-Target)
     - [Burpsuite Sniper Attack](https://github.com/Hunter102002/Burpsuite-Sniper-Attack)
     - [Remote Access Exploitation Using Metasploit](https://github.com/Hunter102002/Metasploit-remote-access)
