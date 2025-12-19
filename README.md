@@ -6,7 +6,7 @@
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
   - [Configure Azure Firewall and Policy in Azure Portal](https://github.com/Hunter102002/Configure-Azure-Firewall-and-policy-using-Azure-Portal) 
 
- - <b>Client Success Projects</b>
+ - <b>Customer Success & Automation Projects</b>
    - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
    - [Phishing Email Investigation Sim](https://github.com/Hunter102002/Phishing-Investigation)
    - [Vulnerability Assessment Using Nessus](https://github.com/Hunter102002/Nessus-VM-scan-report)
