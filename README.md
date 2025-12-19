@@ -8,7 +8,7 @@
 
  - <b>Customer Success & Automation Projects</b>
    - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
-   - [Phishing Email Investigation Sim](https://github.com/Hunter102002/Phishing-Investigation)
+   - [Voice of Customer(VOC) Presentation](https://github.com/Hunter102002/VOC-Project)
    - [Client Success Automations](https://github.com/Hunter102002/Automations)
     
   
