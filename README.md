@@ -2,7 +2,7 @@
 
 <h2> IT Projects:</h2>
 
-- <b>Cloud Projects</b>
+- <b>Cloud & Infrastructure Projects</b>
   - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
   - [Configure Azure Firewall and Policy in Azure Portal](https://github.com/Hunter102002/Configure-Azure-Firewall-and-policy-using-Azure-Portal) 
 
