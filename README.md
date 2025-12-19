@@ -7,15 +7,13 @@
   - [Configure Azure Firewall and Policy in Azure Portal](https://github.com/Hunter102002/Configure-Azure-Firewall-and-policy-using-Azure-Portal) 
 
  - <b>Customer Success & Automation Projects</b>
-   - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
    - [Voice of Customer(VOC) Presentation](https://github.com/Hunter102002/VOC-Project)
    - [Client Success Automations](https://github.com/Hunter102002/Automations)
     
   
  - <b>General Technical Projects</b>
-    - [Wazuh SIEM Config](https://github.com/Hunter102002/Wazuh_SIEM_Config)
-    - [Splunk - Monitor Critical Server](https://github.com/Hunter102002/Splunk-critical-server)
     - [Vulnerability Assessment Using Nessus](https://github.com/Hunter102002/Nessus-VM-scan-report)
+    - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
 
 
 
