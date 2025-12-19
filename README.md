@@ -12,7 +12,7 @@
    - [Vulnerability Assessment Using Nessus](https://github.com/Hunter102002/Nessus-VM-scan-report)
     
   
- - <b>Analystical</b>
+ - <b>General Technical Projects</b>
     - [Wazuh SIEM Config](https://github.com/Hunter102002/Wazuh_SIEM_Config)
     - [Splunk - Monitor Critical Server](https://github.com/Hunter102002/Splunk-critical-server)
 
