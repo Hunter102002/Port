@@ -1,19 +1,39 @@
-<h1>Hi, I'm Hunter! 
+<h1 align="center">Hi, I'm Hunter 👋</h1>
 
-<h2> IT Projects:</h2>
+<p align="center">
+  Client Experience Advocate focused on enterprise software, cloud, and practical automation.
+</p>
 
-- <b>Cloud & Infrastructure Projects</b>
-  - [Configure Network Access to Storage Accounts - Azure](https://github.com/Hunter102002/Network-Access-to-storage-accounts)
-  - [Configure Azure Firewall and Policy in Azure Portal](https://github.com/Hunter102002/Configure-Azure-Firewall-and-policy-using-Azure-Portal) 
+---
 
- - <b>Customer Success & Automation Projects</b>
-   - [Voice of Customer(VOC) Presentation](https://github.com/Hunter102002/VOC-Project)
-   - [Client Success Automations](https://github.com/Hunter102002/Automations)
-    
-  
- - <b>General Technical Projects</b>
-    - [Vulnerability Assessment Using Nessus](https://github.com/Hunter102002/Nessus-VM-scan-report)
-    - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
+## Projects
+
+### ☁️ Cloud & Infrastructure
+- **Configure Network Access to Storage Accounts (Azure)**  
+  https://github.com/Hunter102002/Network-Access-to-storage-accounts
+
+- **Configure Azure Firewall and Policy (Azure Portal)**  
+  https://github.com/Hunter102002/Configure-Azure-Firewall-and-policy-using-Azure-Portal
+
+---
+
+### 🤝 Customer Success & Automation
+- **Voice of Customer (VoC) Presentation**  
+  https://github.com/Hunter102002/VOC-Project
+
+- **Client Success Automations**  
+  https://github.com/Hunter102002/Automations
+
+---
+
+### 🛠️ General Technical Projects
+- **Vulnerability Assessment Using Nessus**  
+  https://github.com/Hunter102002/Nessus-VM-scan-report
+
+- **Malicious IP Ticketing Simulation**  
+  https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim
+
+
 
 
 
