@@ -9,12 +9,13 @@
  - <b>Customer Success & Automation Projects</b>
    - [Malicious IP Ticketing Sim](https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim)
    - [Phishing Email Investigation Sim](https://github.com/Hunter102002/Phishing-Investigation)
-   - [Vulnerability Assessment Using Nessus](https://github.com/Hunter102002/Nessus-VM-scan-report)
+   - [Client Success Automations](https://github.com/Hunter102002/Automations)
     
   
  - <b>General Technical Projects</b>
     - [Wazuh SIEM Config](https://github.com/Hunter102002/Wazuh_SIEM_Config)
     - [Splunk - Monitor Critical Server](https://github.com/Hunter102002/Splunk-critical-server)
+    - [Vulnerability Assessment Using Nessus](https://github.com/Hunter102002/Nessus-VM-scan-report)
 
 
 
