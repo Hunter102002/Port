@@ -54,7 +54,7 @@
   </li>
   <br>
   <li>
-    <b>Malicious IP Ticketing Simulation</b><br>
+    <b>Client Success SQL Analytics</b><br>
     Simulated an incident-style ticketing workflow for identifying and documenting malicious IP activity, including investigation and resolution steps.<br>
     <a href="https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim">View repository</a>
   </li>
