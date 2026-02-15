@@ -55,7 +55,7 @@
   <br>
   <li>
     <b>Client Success SQL Analytics</b><br>
-    Simulated an incident-style ticketing workflow for identifying and documenting malicious IP activity, including investigation and resolution steps.<br>
+    Built a SQL reporting project that models a customer support system and surfaces Client Success metrics like backlog risk, SLA performance, and account health.<br>
     <a href="https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim">View repository</a>
   </li>
 </ul>
