@@ -56,7 +56,7 @@
   <li>
     <b>Client Success SQL Analytics</b><br>
     Built a SQL reporting project that models a customer support system and surfaces Client Success metrics like backlog risk, SLA performance, and account health.<br>
-    <a href="https://github.com/Hunter102002/Ticketing-Virus-Scan-Sim">View repository</a>
+    <a href="https://github.com/Hunter102002/client-success-sql-analytics">View repository</a>
   </li>
 </ul>
     <b>Client Success SQL Analytics</b><br>
