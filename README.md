@@ -1,7 +1,7 @@
  <h1 align="center">Hi, I'm Hunter 👋</h1>
 
 <p align="center">
-  Client Experience Advocate working at the intersection of enterprise software, cloud infrastructure, and practical automation.
+  Client Success Lead working at the intersection of enterprise software, cloud infrastructure, and practical automation.
 </p>
 
 <hr>
