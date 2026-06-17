@@ -36,9 +36,9 @@
   </li>
   <br>
   <li>
-    <b>Client Success Automations</b><br>
-    Designed no-code workflows for onboarding, account health tracking, and renewal reminders to reduce manual follow-ups and improve process consistency.<br>
-    <a href="https://github.com/Hunter102002/Automations">View repository</a>
+    <b>AI SLA Breach Predictor</b><br>
+    AI tool that predicts SLA breaches before they happen using risk scoring and the Claude API to generate plain-English explanations and an executive summary for every ticket queue run.<br>
+    <a href="https://github.com/Hunter102002/AI-SLA-Breach-Predicor">View repository</a>
   </li>
 </ul>
 
